@@ -1,0 +1,13 @@
+# Branches
+Branches são ramificações de um projeto
+
+## Comandos:
+criar branch: git branch <nome>
+listar branches: git branch
+deletar branch: git checkout -d
+mudar de branch: git checkout <nome>
+criar e mudar de branch: git checkout -b <nome>
+
+## Notas:
+É necessário commitar antes de mudar de branch
+Use o git pull antes de criar uma branch
