@@ -1,1 +1,0 @@
-Para obter todas as branches e tags que ainda não são reconheicidas : git fetch
