@@ -1,5 +1,6 @@
 # Comandos
 Para obter todas as branches e tags que ainda não são reconheicidas : git fetch
+&nbsp;
 Para receber atualizações do repositório remoto: git pull
 Enviar açterações pro repo remoto: git push
 para ver as url do repositório: git remote -v
