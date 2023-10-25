@@ -1,5 +1,5 @@
 # Assuntos estudados 
-<br/> 
+
 [Conceitos fundamentais](diretorio-1/Conceitos_fundamentais.md) <br/>
 [Branches](diretorio-1/Branches.md) <br/>
 [Compartilhamento e atualização de repositórios](diretorio-1/Compartilhamento_atualização_repos.md)<br/>

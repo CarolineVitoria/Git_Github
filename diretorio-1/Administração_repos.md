@@ -10,7 +10,8 @@ Identificar e excluir arquivos que não são mais necessários, otimizando assim
 git gc(garbage collector).
 <br/>
 
-## Verificando a integridade dos arquivos <br/>
+## Verificando a integridade dos arquivos 
+<br/>
 Verifica a integridade e conectividade de arquivos. É um comando de rotina : git fsck(File System ChecK).<br/>
 
 ## Redflog
