@@ -31,4 +31,4 @@ Use o git pull antes de criar uma branch <br/>
 Stash só funciona em mudanças não commitadas <br/>
 É importante commitar antes de criar uma tag, pois eal se vincula a commits, diferente da stash <br/>
 
-<img alt="paige buecker" src="https://i.pinimg.com/originals/ff/c5/ee/ffc5ee11fc2f08f69a5cd1dbe3e6a800.gif" width="200px"/>
+<img alt="paige buecker" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fpaige-bueckers-uconn-wbb-basketball-gif-20700446&psig=AOvVaw0B5FhlyHPcD5v9SjUHYx1Y&ust=1698346315998000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjlnZnvkYIDFQAAAAAdAAAAABBl" width="200px"/>
