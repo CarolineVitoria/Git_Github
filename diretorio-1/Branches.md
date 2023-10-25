@@ -30,3 +30,5 @@ compartilhar todas as tags: git push origin --tag <br/>
 Use o git pull antes de criar uma branch <br/>
 Stash só funciona em mudanças não commitadas <br/>
 É importante commitar antes de criar uma tag, pois eal se vincula a commits, diferente da stash <br/>
+
+<img alt="paige buecker" src="https://i.pinimg.com/originals/ff/c5/ee/ffc5ee11fc2f08f69a5cd1dbe3e6a800.gif" width="200px">
