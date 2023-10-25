@@ -1,9 +1,11 @@
-## Limpando arquivos untracked <br/>
+## Limpando arquivos untracked 
+<br/>
 limpar arquivos untrackeds : git clean <br/>
 Utilizado para arquivos que são gerados automaticamente e atrapalham visualização do que realmente é  importante.
 <br/>
 
-## Otimizando repositório <br/>
+## Otimizando repositório 
+<br/>
 Identificar e excluir arquivos que não são mais necessários, otimizando assim a performance do repositório: git gc. <br/>
 git gc(garbage collector).
 <br/>

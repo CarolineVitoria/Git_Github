@@ -1,4 +1,5 @@
 # Comandos
+<br/>
 Para obter todas as branches e tags que ainda não são reconheicidas : git fetch <br/>
 Para receber atualizações do repositório remoto: git pull <br/>
 Enviar açterações pro repo remoto: git push <br/>
